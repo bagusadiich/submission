@@ -1,9 +1,11 @@
-# coba
+# E-Commerce Dashboard
 
-Alur Fitur Login:
+## Setup environment
+```
+pip install pandas matplotlib.pyplot seaborn streamlit babel.numbers
+```
 
-Memasukkan email dan password
-
-Memvalidasi masukan.
-
-Menampilkan halaman home.
+## Run steamlit app
+```
+streamlit run hello-world.py
+```
