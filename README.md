@@ -2,6 +2,7 @@
 
 ## Setup environment
 ```
+jupyter lab
 pip install pandas matplotlib.pyplot seaborn streamlit babel.numbers
 ```
 
